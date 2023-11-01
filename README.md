@@ -258,18 +258,18 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Henry Ndlovu</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Kingbragger">Github</a></li>
+    <li><a href="https://www.twitter.com/Theking Bragger">Twitter</a></li>
+    <li><a href="mailto:ndlovuhenry73@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>--- Chioma</summary>
+    <summary>--- Mike Dunda</summary>
     <ul>
-    <li><a href="https://www.github.com/chioma2000">Github</a></li>
-    <li><a href="https://www.twitter.com/---chioma">Twitter</a></li>
-    <li><a href="mailto:---chioma---@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/">Github</a></li>
+    <li><a href="https://www.twitter.com/---">Twitter</a></li>
+    <li><a href="mailto:------@gmail.com">e-mail</a></li>
     </ul>
 </details>
