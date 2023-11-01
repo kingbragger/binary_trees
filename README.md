@@ -266,10 +266,10 @@ Function Prototypes
     </ul>
 </details>
 <details>
-    <summary>--- Mike Dunda</summary>
+    <summary>Mike Dunda</summary>
     <ul>
-    <li><a href="https://www.github.com/">Github</a></li>
-    <li><a href="https://www.twitter.com/---">Twitter</a></li>
-    <li><a href="mailto:------@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Mike-D22">Github</a></li>
+    <li><a href="https://www.twitter.com/Dunda_1">Twitter</a></li>
+    <li><a href="mailto:qamp26@gmail.com">e-mail</a></li>
     </ul>
 </details>
