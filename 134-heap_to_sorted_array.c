@@ -1,11 +1,11 @@
-#include "binary_trees.h"
-
+#include"binary_trees.h"
 /**
- * tree_size - measures the sum of heights of a binary tree
- * @tree: pointer to the root node of the tree to measure the height
+ * tree_size - It Measures sum of heights of binary tree.
+ * @tree: pointer to the root node of the tree to measure the height.
  *
  * Return: Height or 0 if tree is NULL
  */
+
 size_t tree_size(const binary_tree_t *tree)
 {
 	size_t height_l = 0;
@@ -22,9 +22,8 @@ size_t tree_size(const binary_tree_t *tree)
 
 	return (height_l + height_r);
 }
-
 /**
- * heap_to_sorted_array - converts a Binary Max Heap
+ * heap_to_sorted_array -It converts binary Max Heap
  * to a sorted array of integers
  * @heap: a pointer to the root node of the heap to convert
  * @size: an address to store the size of the array
@@ -32,6 +31,7 @@ size_t tree_size(const binary_tree_t *tree)
  * Return: the generated array
  *         NULL on failure
  */
+
 int *heap_to_sorted_array(heap_t *heap, size_t *size)
 {
 	int i, *a = NULL;
